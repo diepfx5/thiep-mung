@@ -1,7 +1,7 @@
-const nameGirl = 'Em à';
+const nameGirl = 'Yêu em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc em buổi sáng vui vẻ';
-const titleCard = 'Tặng người ấy';
+const eventName = 'Chúc em sinh nhật vui vẻ';
+const titleCard = 'Tặng em yêu';
 const contentCard = 'Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
